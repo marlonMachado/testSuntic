@@ -1,0 +1,7 @@
+modelo\Userss.class
+modelo\User.class
+controller\LoginCon.class
+modeloDao\TipoIdentificacion.class
+controller\UserCon.class
+config\Conexion.class
+modeloDao\UserD.class
